@@ -10,7 +10,6 @@ import com.google.android.material.navigation.NavigationBarView;
 
 // Make sure to import your actual Fragment classes here
 import com.example.emergencyapp.ui.home.HomeSOSFragment;
-import com.example.emergencyapp.ui.contacts.ContactsListFragment;
 import com.example.emergencyapp.ui.maps.MapsFragment;
 import com.example.emergencyapp.ui.alerts.NotificationsHubFragment;
 
